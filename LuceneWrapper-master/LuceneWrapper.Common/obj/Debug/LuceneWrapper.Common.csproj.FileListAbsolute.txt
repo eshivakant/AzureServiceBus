@@ -1,0 +1,4 @@
+D:\DEV\LuceneWrapper-master\LuceneWrapper.Common\bin\Debug\LuceneWrapper.Common.dll
+D:\DEV\LuceneWrapper-master\LuceneWrapper.Common\bin\Debug\LuceneWrapper.Common.pdb
+D:\DEV\LuceneWrapper-master\LuceneWrapper.Common\obj\Debug\LuceneWrapper.Common.dll
+D:\DEV\LuceneWrapper-master\LuceneWrapper.Common\obj\Debug\LuceneWrapper.Common.pdb

@@ -1,0 +1,15 @@
+D:\DEV\LuceneWrapper-master\LuceneWrapper.TestApp\bin\Debug\LuceneWrapper.TestApp.exe.config
+D:\DEV\LuceneWrapper-master\LuceneWrapper.TestApp\bin\Debug\LuceneWrapper.TestApp.exe
+D:\DEV\LuceneWrapper-master\LuceneWrapper.TestApp\bin\Debug\LuceneWrapper.TestApp.pdb
+D:\DEV\LuceneWrapper-master\LuceneWrapper.TestApp\bin\Debug\LuceneWrapper.dll
+D:\DEV\LuceneWrapper-master\LuceneWrapper.TestApp\bin\Debug\Lucene.Net.dll
+D:\DEV\LuceneWrapper-master\LuceneWrapper.TestApp\bin\Debug\log4net.dll
+D:\DEV\LuceneWrapper-master\LuceneWrapper.TestApp\bin\Debug\LuceneWrapper.pdb
+D:\DEV\LuceneWrapper-master\LuceneWrapper.TestApp\bin\Debug\Lucene.Net.pdb
+D:\DEV\LuceneWrapper-master\LuceneWrapper.TestApp\bin\Debug\Lucene.Net.xml
+D:\DEV\LuceneWrapper-master\LuceneWrapper.TestApp\bin\Debug\log4net.xml
+D:\DEV\LuceneWrapper-master\LuceneWrapper.TestApp\obj\Debug\LuceneWrapper.TestApp.csprojResolveAssemblyReference.cache
+D:\DEV\LuceneWrapper-master\LuceneWrapper.TestApp\obj\Debug\LuceneWrapper.TestApp.exe
+D:\DEV\LuceneWrapper-master\LuceneWrapper.TestApp\obj\Debug\LuceneWrapper.TestApp.pdb
+D:\DEV\LuceneWrapper-master\LuceneWrapper.TestApp\bin\Debug\LuceneWrapper.Common.dll
+D:\DEV\LuceneWrapper-master\LuceneWrapper.TestApp\bin\Debug\LuceneWrapper.Common.pdb

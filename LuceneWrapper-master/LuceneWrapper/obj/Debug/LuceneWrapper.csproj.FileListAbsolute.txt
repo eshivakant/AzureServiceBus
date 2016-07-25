@@ -1,0 +1,12 @@
+D:\DEV\LuceneWrapper-master\LuceneWrapper\bin\Debug\LuceneWrapper.dll
+D:\DEV\LuceneWrapper-master\LuceneWrapper\bin\Debug\LuceneWrapper.pdb
+D:\DEV\LuceneWrapper-master\LuceneWrapper\bin\Debug\log4net.dll
+D:\DEV\LuceneWrapper-master\LuceneWrapper\bin\Debug\Lucene.Net.dll
+D:\DEV\LuceneWrapper-master\LuceneWrapper\bin\Debug\log4net.xml
+D:\DEV\LuceneWrapper-master\LuceneWrapper\bin\Debug\Lucene.Net.pdb
+D:\DEV\LuceneWrapper-master\LuceneWrapper\bin\Debug\Lucene.Net.xml
+D:\DEV\LuceneWrapper-master\LuceneWrapper\obj\Debug\LuceneWrapper.dll
+D:\DEV\LuceneWrapper-master\LuceneWrapper\obj\Debug\LuceneWrapper.pdb
+D:\DEV\LuceneWrapper-master\LuceneWrapper\obj\Debug\LuceneWrapper.csprojResolveAssemblyReference.cache
+D:\DEV\LuceneWrapper-master\LuceneWrapper\bin\Debug\LuceneWrapper.Common.dll
+D:\DEV\LuceneWrapper-master\LuceneWrapper\bin\Debug\LuceneWrapper.Common.pdb
